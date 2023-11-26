@@ -1,0 +1,332 @@
+body {
+    background:url(./img/moni.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font:15/1.5px arial helvetica;
+    margin:0;
+    padding:0;
+   
+   
+   }
+
+
+   .container{
+    width:100%; 
+    margin:auto;
+    /* overflow:hidden; */
+}
+
+
+
+
+  
+   header {
+       background:gray;
+       padding:30px;
+       color:white;
+       min-height: 70px;
+       border-bottom: orange 5px solid;
+   
+   }
+
+
+   header img{
+    border:2px solid blue;
+    
+}
+
+   
+   ul {
+       display: flex;
+       /* margin-left: 20%; */
+       margin-top: -60px;
+       list-style-type: none;
+   
+   }
+   
+   li {
+       margin-right:-130px;
+       text-decoration: none;
+       text-transform: uppercase;
+       font-size: 16px;
+       
+   }
+
+
+   
+   .nav-one {
+       color:white;
+   }
+
+
+
+   
+   #current {
+       color:orange;
+   }
+
+
+
+   header a:hover {
+    color:#13044e;
+    font-weight:bold;
+    cursor:ponter;
+}
+
+
+
+h3:hover {
+          color:goldenrod;
+          cursor: pointer;
+} 
+
+
+   
+   span {
+        color:orange;
+   }
+   
+   h3 {
+       text-transform: uppercase;
+   }
+   
+   .navigation-one {
+       margin-left: 40%;
+       font-weight: bolder;
+       color:red;
+   
+   }
+   
+   .nav-one{
+       margin-left: 20px;
+       text-decoration: none;
+   }
+   
+   
+   
+   li {
+       margin-left: 20%;
+       text-decoration: none;
+       margin-top: 25px;
+       font-size: 13px;
+   }
+   
+
+   h3 {
+    text-transform: uppercase;
+}
+
+    
+/*newsltter*/
+
+#newsletter{
+    background:gray;
+     padding: 15px; 
+    width:none;
+    color:white;
+    border-bottom:orange 5px solid;
+    min-height:70px;
+    /* font-size: 20px;
+    margin-top: 15px; */
+    
+}
+
+
+#newsletter h3{
+            /* float:left;  */
+        /* margin-top:15px; */
+        text-transform: uppercase;
+}
+
+
+
+
+
+#newsletter form { 
+     /* margin-left: 70%;  */
+     float:right; 
+     margin-top:-40px;
+
+
+}
+
+
+ 
+
+#newsletter input{
+    width:240px;
+    text-align: center;
+    border-bottom: 2px solid white;
+    font-size: 18px;
+    margin-top: 2opx;
+}
+
+
+
+
+#newsletter .button_1 {
+    color:white;
+    background: red;
+}
+
+
+
+
+/*main*/
+
+
+#main h3 {
+    /* text-align:center;*/
+
+    color:white;
+    margin-left:100px;
+    width:300px;
+
+}
+
+
+
+#main figure img {
+
+    border: solid blue 1px;
+    width:200px;
+    margin-left:75%;
+    margin-top: -35px;
+
+    
+} 
+
+
+#main figcaption {
+    color:grey;
+    margin-left: 75%;
+}
+
+ 
+
+
+/*showcase*/
+
+
+#showcase{
+        min-height: 300px;
+        background-color: antiquewhite;
+        background-size: cover;
+        background-repeat: no-repeat;
+
+}
+
+
+.dark_1{
+            background-color: #ffffff;
+            color:blue;
+            font-size:15px;
+            font-family:Arial;
+            width:65%;
+            margin-top:-20%;
+            margin-left: 20px;
+            padding:10px;
+            margin-bottom: 20px;
+
+}
+
+
+
+.dark_1 h3{
+                    margin-left:20px;
+                    font-size: 23px;
+}
+
+
+.dark_1 p{
+                margin-left:20px;
+                font-weight: 300px;
+                font-size:20px;
+}
+
+
+
+
+.dark_2{
+    background-color: #e6e6e6;
+    color:blue;
+    font-size:15px;
+    font-family:Arial;
+    width:70%;
+    margin-top:-5px;
+    margin-left:20px;
+    padding:20px;
+
+}
+
+
+
+.dark_2 p{
+    margin-left:20px;
+    font-weight: 300px;
+    font-size:20px;
+}
+
+
+
+.dark_3{
+    background-color:#ffffff;
+    color:blue;
+    font-size:15px;
+    font-family:Arial;
+    width:70%;
+    margin-top:5px;
+    margin-left:20px;
+    padding:10px;
+    margin-bottom: 10px;
+
+}
+
+
+.dark_3 p{
+    margin-left:20px;
+    font-weight: 300px;
+    font-size:20px;
+}
+
+
+.red{
+    color:red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*footer*/
+
+
+footer  {
+    padding:20px;
+    text-align:center;
+    color:white;
+    background-color: red;
+    font-weight:bold;
+
+    
+}
+
+
+
+
+
+
+
+
+   
+   
